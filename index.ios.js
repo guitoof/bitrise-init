@@ -23,8 +23,7 @@ class BitriseInit extends Component {
           Hello World
         </Text>
         <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          Qu'est ce qu'il se passe ?
         </Text>
       </View>
     );
