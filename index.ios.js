@@ -20,7 +20,7 @@ class BitriseInit extends Component {
           Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
-          Hello World
+          Yolooo
         </Text>
         <Text style={styles.instructions}>
           Qu'est ce qu'il se passe ?
